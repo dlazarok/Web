@@ -1,0 +1,77 @@
+{
+  "types": [
+    {
+      "id": 1,
+      "type": "Milk"
+    },
+    {
+      "id": 2,
+      "type": "Meet"
+    },
+    {
+      "id": 3,
+      "type": "Keffir"
+    },
+    {
+      "id": 4,
+      "type": "Sir"
+    }
+  ],
+  "purchase": [
+    {
+      "id": 1,
+      "type": "Milk",
+      "count": 1
+    },
+    {
+      "type": "Meet",
+      "count": "12",
+      "id": 2
+    },
+    {
+      "type": "Keffir",
+      "count": "3123",
+      "id": 3
+    },
+    {
+      "type": "Meet",
+      "count": "",
+      "id": 4
+    },
+    {
+      "type": "Meet",
+      "count": "2",
+      "id": 5
+    },
+    {
+      "type": "",
+      "count": "",
+      "id": 6
+    },
+    {
+      "type": "",
+      "count": "",
+      "id": 7
+    },
+    {
+      "type": "",
+      "count": "",
+      "id": 8
+    },
+    {
+      "type": "",
+      "count": "",
+      "id": 9
+    },
+    {
+      "type": "",
+      "count": "",
+      "id": 10
+    },
+    {
+      "type": "",
+      "count": "",
+      "id": 11
+    }
+  ]
+}
